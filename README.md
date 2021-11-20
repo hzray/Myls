@@ -1,10 +1,8 @@
 # Myls
-实现linux中的ls命令
-
-运行：
+implementation of `ls` command in lunux
 
 `make all`
 
 `./myls [-command]`
 
-command支持 i,l,R 及其组合
+support command - i,l,R 
